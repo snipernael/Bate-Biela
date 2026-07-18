@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="24dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bate Biela"
+            android:textSize="32sp"
+            android:textStyle="bold"
+            android:textColor="#D32F2F"
+            android:layout_marginBottom="8dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Descubra o defeito pelo som"
+            android:textSize="16sp"
+            android:layout_marginBottom="32dp"/>
+
+        <Button android:id="@+id/btnSom1" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 1" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom2" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 2" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom3" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 3" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom4" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 4" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom5" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 5" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom6" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 6" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom7" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 7" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom8" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 8" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom9" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 9" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom10" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 10" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom11" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 11" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom12" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 12" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom13" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 13" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom14" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 14" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom15" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 15" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom16" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 16" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom17" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 17" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom18" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 18" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom19" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 19" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom20" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 20" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom21" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 21" android:layout_marginBottom="12dp" android:padding="12dp"/>
+        <Button android:id="@+id/btnSom22" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Defeito 22" android:layout_marginBottom="12dp" android:padding="12dp"/>
+
+    </LinearLayout>
+</ScrollView>
